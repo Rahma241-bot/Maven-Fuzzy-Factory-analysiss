@@ -1,0 +1,3 @@
+#this is dashboard withpowerBI in the link 
+
+https://app.powerbi.com/view?r=eyJrIjoiZGQ0ZTA5MjAtM2Y2Yy00OGI1LTlkYjYtY2NhMWY3M2Q1MjlkIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9&pageName=d4b92602439535d3a7b4
